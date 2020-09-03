@@ -1,0 +1,25 @@
+{
+  "name": "fullstack-template",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Express server with CRA, ESLint, Git Hooks, Prettier",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasImm/fullstack-template.git"
+  },
+  "keywords": [],
+  "author": "Jonas Immm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonasImm/fullstack-template/issues"
+  },
+  "homepage": "https://github.com/JonasImm/fullstack-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
