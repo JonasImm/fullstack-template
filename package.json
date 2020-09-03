@@ -14,7 +14,7 @@
     "url": "git+https://github.com/JonasImm/fullstack-template.git"
   },
   "keywords": [],
-  "author": "Jonas Immm",
+  "author": "Jonas Imm",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JonasImm/fullstack-template/issues"
@@ -24,6 +24,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
+    "eslint": "^6.8.0",
     "prettier": "^2.1.1"
   }
 }
